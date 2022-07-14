@@ -11,16 +11,16 @@ The purpose of this analysis is to conduct a Database analysis for Pewlett Hacka
 
 - Data Sources: 
   - departments.csv
- - dept_emp.csv 
- - dept_manager.csv
- - employees.csv 
- - salaries.csv
- - titles.csv
+  - dept_emp.csv 
+  - dept_manager.csv
+  - employees.csv 
+  - salaries.csv
+  - titles.csv
 
 - Resources: 
- - SQL
- - PGAdmin
- - POSTgreSQL 
+   - SQL
+   - PGAdmin
+   - POSTgreSQL 
 
 ## Results
 
