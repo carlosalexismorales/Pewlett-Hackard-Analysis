@@ -10,7 +10,7 @@ The purpose of this analysis is to conduct a Database analysis for Pewlett Hacka
 ## Resources
 
 - Data Sources: 
- - departments.csv
+  - departments.csv
  - dept_emp.csv 
  - dept_manager.csv
  - employees.csv 
