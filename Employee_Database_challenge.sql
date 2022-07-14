@@ -1,8 +1,4 @@
---CHALLENGE
-
---TABLE 1 - Number of [Titles] Retiring
---create a Retirement Titles table that holds all the titles of current employees 
---who were born between January 1, 1952 and December 31, 1955.
+-- Deliverable 1: Create a Retirement Titles table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955.
 
 SELECT e.emp_no,
 		e.first_name,
@@ -40,8 +36,7 @@ ORDER BY COUNT(title) DESC;
 
 SELECT * FROM retiring_titles;
 
---Deliverable 2
---Mentorship Eligibility table
+--Deliverable 2: Mentorship Eligibility table
 
 SELECT DISTINCT ON(e.emp_no)e.emp_no,
 	e.first_name,
