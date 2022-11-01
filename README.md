@@ -4,7 +4,7 @@ Using SQL, PostgreSQL, pgAdmin for a company's database analysis
 
 ## Project Overview
 
-The purpose of this analysis is to conduct a Database analysis for Pewlett Hackard. This analysis will achieve two goals:  determiningthe number of future retirees per title and identifying which employees are fit/eligible for the mentorship program. This analysis will also include a report that summarize's the findings to help Pewlett Hackard's upcoming transitional period. 
+The purpose of this analysis is to conduct a Database analysis for Pewlett Hackard. This analysis will achieve two goals:  determining the number of future retirees per title and identifying which employees are fit/eligible for the mentorship program. This analysis will also include a report that summarize's the findings to help Pewlett Hackard's upcoming transitional period. 
 
 
 ## Resources
